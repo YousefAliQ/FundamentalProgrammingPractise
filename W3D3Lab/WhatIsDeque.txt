@@ -1,0 +1,11 @@
+What is a deque?
+
+Deque is an abbreviation of double ended queues. which can be only modifid at first or last elements.
+
+Examples in nature for stacks and queues. 
+
+1) stacks:
+stones and its layers made because of a volcanic will removed from the top layer because of wind and water waves.
+
+2) queues: 
+what animals ate first it will come first. And what ate last it will processed last.
