@@ -7,6 +7,7 @@ public class Prog2 {
 		float fNumber = (float) 1.27;
 		float sNumber = (float) 3.881;
 		float tNumber = (float) 9.6;
+		//asdasd
 
 		int sum = (int) (fNumber + sNumber + tNumber);
 		System.out.println("The Sum obtained by casting : " + sum);

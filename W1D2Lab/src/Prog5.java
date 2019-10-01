@@ -6,8 +6,9 @@ public class Prog5 {
 		// TODO Auto-generated method stub
 		Scanner in = new Scanner(System.in);
 		String str = in.nextLine();
-
+//asadffsdfsd
 		int xCounter = 0;
+		
 		for (int i = str.length() - 1; i >= 0; i--) {
 			System.out.print(str.charAt(i));
 
